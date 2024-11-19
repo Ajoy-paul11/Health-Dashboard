@@ -7,7 +7,7 @@ function Input() {
         htmlFor="name"
         className="block text-xl font-medium mb-1 text-[#202829] dark:text-[#fffff9]"
       >
-        Name
+        Patient Name
       </label>
       <input
         type="text"
